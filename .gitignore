@@ -1,0 +1,11 @@
+/Binaries
+/Intermediate
+/Saved
+/DerivedDataCache
+/.vs
+/Common/.vs
+/Common/out
+/Common/generated
+
+.vsconfig
+UseThirdPartyLib.sln
